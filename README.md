@@ -23,7 +23,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-> *Icons are now properly spaced using skillicons.dev — clean, minimal, and professional.*
 
 #### **Programming**
 <p align="left">
